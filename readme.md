@@ -8,7 +8,7 @@ A simple test automation framework based on Selenium. Built with node.
 
 ## Installation
 
-- Copy the git repositor
+- Copy the git repository
 - Navigate to the project directory
 - Install project dependencies with npm
 
