@@ -15,3 +15,9 @@ A simple test automation framework based on Selenium. Built with node.
 ```bash
   npm install
 ```
+
+- To run the project. Use:
+
+```bash
+  npm start
+```
