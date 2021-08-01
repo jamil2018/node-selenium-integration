@@ -14,4 +14,4 @@ class GooglePage extends BasePage {
   }
 }
 
-module.exports = { GooglePage };
+module.exports = GooglePage;
